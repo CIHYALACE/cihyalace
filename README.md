@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Abdel-Rahman Youssef (you can call me Abdo or Boudy) — a passionate Web Developer with a strong foundation in both front-end and back-end technologies.
+I'm Abdel-Rahman Youssef  — a passionate Web Developer with a strong foundation in both front-end and back-end technologies.
 - 🔭 I’m currently working on [FitConnect](https://github.com/CIHYALACE/Fit-Connect) – a fitness platform for users and coaches
 - 🌱 I’m currently learning Advanced backend concepts, performance optimization, and system design
 - 📫 How to reach me: [:email: :aboyoussef2015@gmail.com](mailto:abodyoussef2015@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdel-rahman-youssef-16664b236/) 
