@@ -2,7 +2,7 @@
 I'm Abdel-Rahman Youssef  — a passionate Web Developer with a strong foundation in both front-end and back-end technologies.
 - 🔭 I’m currently working on [FitConnect](https://github.com/CIHYALACE/Fit-Connect) – a fitness platform for users and coaches
 - 🌱 I’m currently learning Advanced backend concepts, performance optimization, and system design
-- 📫 How to reach me: [:email: :aboyoussef2015@gmail.com](mailto:abodyoussef2015@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdel-rahman-youssef-16664b236/) 
+- 📫 How to reach me: [:email: :abodyoussef2015@gmail.com](mailto:abodyoussef2015@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdel-rahman-youssef-16664b236/) 
 <!--
 **CIHYALACE/cihyalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
